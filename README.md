@@ -2,7 +2,8 @@
 Tool to destroy a discord acc
 # Preview
 ![Preview](https://user-images.githubusercontent.com/78593516/136802742-8753746c-d69e-40f7-a760-0a455c7fb0f9.png)
-
+## Still has Issues
+If you see errors that dont look like this ``Depreciation Warning``, open a new Issue.
 # Features:
 - Remove all Friends
 - Spam White/Dark Mode 
