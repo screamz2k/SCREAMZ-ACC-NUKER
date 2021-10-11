@@ -1,5 +1,8 @@
 # SCREAMZ-ACC-NUKER
 Tool to destroy a discord acc
+# Preview
+![Preview](https://user-images.githubusercontent.com/78593516/136802742-8753746c-d69e-40f7-a760-0a455c7fb0f9.png)
+
 # Features:
 - Remove all Friends
 - Spam White/Dark Mode 
