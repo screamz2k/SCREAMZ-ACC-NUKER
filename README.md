@@ -17,4 +17,4 @@ This only an executabel because i dont want the source code to be skidded like w
 [Virustotal](https://www.virustotal.com/gui/file/a3208f6aeee4bfc9f9e706e86ebef27b7a30417ff53012ba509af43fa1e7304e?nocache=1)
 # Warning
 This is only here to show how fast somebody can destroy your beloved Account!
-So make sure to never open suspicious files from strangers and download from trusted devcelopers/companies.
+So make sure to never open suspicious files from strangers and download from trusted developers/companies.
